@@ -1,7 +1,15 @@
 # DGA
 
+https://cyber.wtf/2017/08/30/dga-classification-and-detection-for-automated-malware-analysis/ <br />
 https://github.com/philarkwright/DGA-Detection	<br />
 https://github.com/exp0se/dga_detector <br />
+https://github.com/jayjacobs/dga-tutorial <br />
+https://github.com/pchaigno/dga-collection <br />
+
+
+# DGA samples
+https://github.com/azrilrahim/gozdga <br />
+https://github.com/andrewaeva/DGA/tree/master/dga_wordlists <br />
 
 # CVE
 
