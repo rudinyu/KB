@@ -34,9 +34,9 @@ MalwareBlacklist 	http://www.malwareblacklist.com/showMDL.php <br />
 MalwareDomain List 	http://www.malwaredomainlist.com/mdl.php <br />
 Malcode 	http://malc0de.com/database/ <br />
 HostFile 	http://hosts-file.net/?s=Browse&f=EMD <br />
-Dshield 	http://www.dshield.org/ipsascii.html
-ZeusTracker 	https://zeustracker.abuse.ch/monitor.php?browse=binaries <br />
-PhishTank 	http://www.phishtank.com/ <br />
+Dshield 	http://www.dshield.org/ipsascii.html <br />
+ZeusTracker 	https://zeustracker.abuse.ch/monitor.php?browse=binaries  <br />
+PhishTank 	http://www.phishtank.com/ <br /> 
 CyberCrime Tracker 	http://cybercrime-tracker.net/ <br />
 MTC SRI 	http://mtc.sri.com/live_data/attackers/ <br />
 Malware Group 	http://www.malwaregroup.com/ <br />
