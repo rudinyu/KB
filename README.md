@@ -13,6 +13,7 @@ https://github.com/andrewaeva/DGA/tree/master/dga_wordlists <br />
 
 # URL blacklist
 http://www.squidblacklist.org/ <br />
+http://vxvault.net/ViriList.php <br />
 https://github.com/maravento/blackweb <br />
 https://zeustracker.abuse.ch/blocklist.php (Zeustracker) <br />
 
