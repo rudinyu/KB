@@ -11,6 +11,12 @@ https://github.com/pchaigno/dga-collection <br />
 https://github.com/azrilrahim/gozdga <br />
 https://github.com/andrewaeva/DGA/tree/master/dga_wordlists <br />
 
+# URL blacklist
+http://www.squidblacklist.org/ <br />
+https://github.com/maravento/blackweb <br />
+https://zeustracker.abuse.ch/blocklist.php (Zeustracker) <br />
+
+
 # CVE
 
 https://www.fortinet.com/blog/threat-research/an-analysis-of-the-use-after-free-bug-in-microsoft-edge-chakra-engine.html <br />
