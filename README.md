@@ -22,6 +22,8 @@ https://zeustracker.abuse.ch/blocklist.php (Zeustracker) <br />
 
 https://www.fortinet.com/blog/threat-research/an-analysis-of-the-use-after-free-bug-in-microsoft-edge-chakra-engine.html <br />
 https://github.com/yassineaboukir/CVE-2018-0296  <br />
+https://github.com/wzw19890321/Exploits/tree/master/CVE-2018-4192 <br />
+
 
 # Threat Intelligence Testing
 
@@ -30,7 +32,12 @@ https://github.com/mlsecproject/tiq-test  <br />
 # Threat Hunting Tools
 https://github.com/TonyPhipps/THRecon <br />
 
+# Bypass AV
+https://noxxi.de/research/mime-5-easy-steps-to-bypass-av.html <br />
 
+#
+AREA41 - Anatomy of attacks aimed at financial sector by the Lazarus group <br />
+https://www.slideshare.net/SeongsuPark8/area41-anatomy-of-attacks-aimed-at-financial-sector-by-the-lazarus-group-104315358/1 <br />
 
 # Reinventing Threat Intelligence free sources
 MalwareBlacklist 	http://www.malwareblacklist.com/showMDL.php <br />
