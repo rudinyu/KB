@@ -23,6 +23,8 @@ https://zeustracker.abuse.ch/blocklist.php (Zeustracker) <br />
 https://www.fortinet.com/blog/threat-research/an-analysis-of-the-use-after-free-bug-in-microsoft-edge-chakra-engine.html <br />
 https://github.com/yassineaboukir/CVE-2018-0296  <br />
 https://github.com/wzw19890321/Exploits/tree/master/CVE-2018-4192 <br />
+https://0day.city/polarisoffice-cve-2018-12589.html <br />
+https://github.com/quentinhardy/scriptsAndExploits  -- The script exploit-CVE-2017-3248-bobsecq.py exploits the CVE-2017-3248 <br />
 
 
 # Threat Intelligence Testing
