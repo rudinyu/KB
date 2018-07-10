@@ -27,6 +27,9 @@ https://github.com/yassineaboukir/CVE-2018-0296  <br />
 
 https://github.com/mlsecproject/tiq-test  <br />
 
+# Threat Hunting Tools
+https://github.com/TonyPhipps/THRecon <br />
+
 
 
 # Reinventing Threat Intelligence free sources
