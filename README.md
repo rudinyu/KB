@@ -36,6 +36,10 @@ https://github.com/TonyPhipps/THRecon <br />
 
 # Bypass AV
 https://noxxi.de/research/mime-5-easy-steps-to-bypass-av.html <br />
+https://www.slideshare.net/mobile/SoroushDalili/waf-bypass-techniques-using-http-standard-and-web-servers-behaviour  <br />
+
+# Attacking Tool 
+https://github.com/quentinhardy/odat <br />
 
 #
 AREA41 - Anatomy of attacks aimed at financial sector by the Lazarus group <br />
