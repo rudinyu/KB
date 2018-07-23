@@ -72,3 +72,4 @@ Uribl 	http://rss.uribl.com/nic/NAUNET_REG_RIPN.xml <br />
 Atlas Arbor Networks 	http://atlas.arbor.net/summary/fastflux?out=xml <br />
 Alienvault 	https://reputation.alienvault.com/reputation.data <br />
 DYSDYN 	http://security-research.dyndns.org/pub/malware-feeds/ponmocup-botnet-domains.txt <br />
+CISCO https://www.talosintelligence.com/vulnerability_info
