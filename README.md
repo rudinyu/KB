@@ -17,6 +17,11 @@ http://vxvault.net/ViriList.php <br />
 https://github.com/maravento/blackweb <br />
 https://zeustracker.abuse.ch/blocklist.php (Zeustracker) <br />
 
+#Whitelist
+http://s3-us-west-1.amazonaws.com/umbrella-static/index.html <br />
+https://majestic.com/reports/majestic-million  <br />
+http://s3.amazonaws.com/alexa-static/top-1m.csv.zip <br />
+
 
 # CVE
 
