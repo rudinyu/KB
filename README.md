@@ -7,6 +7,9 @@ https://github.com/jayjacobs/dga-tutorial <br />
 https://github.com/pchaigno/dga-collection <br />
 https://github.com/endgameinc/dga_predict <br/>
 https://github.com/exctzo/dga_prediction_model <br />
+**https://docs.umbrella.com/investigate-ui/docs/dga-detection-system-1 <br />
+**http://datadrivensecurity.info/blog/posts/2014/Sep/dga-part1/ <br />
+**https://github.com/jayjacobs/dga <br />
 
 # DGA samples
 https://github.com/azrilrahim/gozdga <br />
