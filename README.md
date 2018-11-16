@@ -90,6 +90,5 @@ CISCO https://www.talosintelligence.com/vulnerability_info
 #
 1.The premier Malware sample dump Contagio(http://contagiodump.blogspot.com/) <br />
 2.KernelMode.info (Focuses on Win32 and novel rootkit techniques) (http://www.kernelmode.info/forum/viewforum.php?f=16) <br />
-3.DamageLab.org (People occassionally will post their unpacked executables here, which differ from 'in the wild' executables they are seeking to drop on victim's computers, but interesting none the less, many many rips of more well known techniques and software ranging from TDL to Zeus can be found at sites like this) (http://www.damagelab.org/) <br />
-4.The multitude of malware dump sites such as MalwareBlacklist (http://www.malwareblacklist.com/showMDL.php) <br />
-5.As qbi kindly pointed out, Malware.lu (http://avcaesar.lu/)  <br />
+3.The multitude of malware dump sites such as MalwareBlacklist (http://www.malwareblacklist.com/showMDL.php) <br />
+4.As qbi kindly pointed out, Malware.lu (http://avcaesar.lu/)  <br />
